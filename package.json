@@ -61,7 +61,7 @@
     "knex": "^0.15.2"
   },
   "devDependencies": {
-    "@feathersjs/express": "^1.2.7",
+    "@feathersjs/express": "1.2.7",
     "@feathersjs/feathers": "^3.2.3",
     "body-parser": "^1.18.3",
     "chai": "^4.2.0",
